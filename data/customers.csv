@@ -1,0 +1,1201 @@
+customer_id,signup_date,country,customer_segment,acquisition_channel
+C0001,2023-04-07,CH,Standard,Referral
+C0002,2024-08-19,IT,Standard,Paid Ads
+C0003,2024-05-24,ES,Budget,Organic
+C0004,2023-12-18,IT,Standard,Referral
+C0005,2023-12-14,ES,Standard,Organic
+C0006,2024-10-20,IT,Standard,Referral
+C0007,2023-04-04,ES,Budget,Paid Ads
+C0008,2024-06-24,DE,Standard,Organic
+C0009,2023-06-28,IT,Standard,Organic
+C0010,2023-04-10,FR,Budget,Referral
+C0011,2024-02-20,CH,Budget,Organic
+C0012,2025-01-14,IT,Standard,Affiliate
+C0013,2024-07-22,ES,Standard,Referral
+C0014,2024-08-10,ES,Budget,Referral
+C0015,2024-07-09,FR,Standard,Organic
+C0016,2024-08-28,IT,Standard,Referral
+C0017,2024-02-11,IT,Standard,Affiliate
+C0018,2023-05-05,FR,Standard,Organic
+C0019,2024-10-06,DE,Standard,Organic
+C0020,2023-12-27,DE,Standard,Organic
+C0021,2024-02-01,IT,Premium,Paid Ads
+C0022,2023-10-30,CH,Standard,Referral
+C0023,2023-06-14,ES,Standard,Paid Ads
+C0024,2024-12-09,CH,Standard,Paid Ads
+C0025,2024-08-25,ES,Standard,Organic
+C0026,2024-05-16,FR,Budget,Organic
+C0027,2023-11-22,IT,Standard,Organic
+C0028,2024-09-24,DE,Standard,Affiliate
+C0029,2024-03-05,CH,Premium,Paid Ads
+C0030,2023-12-22,ES,Standard,Paid Ads
+C0031,2023-12-27,ES,Standard,Referral
+C0032,2023-07-17,ES,Premium,Organic
+C0033,2023-04-09,DE,Standard,Organic
+C0034,2024-03-12,FR,Budget,Organic
+C0035,2024-11-11,DE,Budget,Affiliate
+C0036,2023-03-19,DE,Budget,Referral
+C0037,2024-10-20,IT,Budget,Paid Ads
+C0038,2024-09-27,IT,Standard,Organic
+C0039,2023-08-22,IT,Standard,Organic
+C0040,2024-05-07,ES,Standard,Paid Ads
+C0041,2023-06-01,IT,Budget,Paid Ads
+C0042,2024-08-08,ES,Standard,Affiliate
+C0043,2024-06-27,DE,Budget,Referral
+C0044,2023-10-18,DE,Premium,Paid Ads
+C0045,2023-03-22,IT,Budget,Referral
+C0046,2025-01-10,ES,Standard,Affiliate
+C0047,2023-12-23,DE,Budget,Paid Ads
+C0048,2024-11-14,CH,Standard,Paid Ads
+C0049,2024-06-10,IT,Standard,Affiliate
+C0050,2024-08-22,DE,Standard,Organic
+C0051,2024-08-09,FR,Budget,Affiliate
+C0052,2023-06-23,ES,Premium,Organic
+C0053,2023-10-25,IT,Standard,Paid Ads
+C0054,2024-01-08,DE,Standard,Referral
+C0055,2024-01-30,ES,Standard,Paid Ads
+C0056,2023-03-05,FR,Premium,Paid Ads
+C0057,2024-03-06,ES,Budget,Paid Ads
+C0058,2023-05-24,FR,Budget,Organic
+C0059,2024-07-28,CH,Budget,Organic
+C0060,2024-06-14,FR,Budget,Organic
+C0061,2024-12-06,FR,Standard,Paid Ads
+C0062,2024-07-29,ES,Premium,Paid Ads
+C0063,2023-10-27,DE,Premium,Organic
+C0064,2025-01-08,DE,Standard,Affiliate
+C0065,2023-11-28,FR,Standard,Paid Ads
+C0066,2023-09-27,IT,Premium,Paid Ads
+C0067,2024-11-23,ES,Premium,Paid Ads
+C0068,2023-10-29,ES,Budget,Organic
+C0069,2023-03-28,FR,Standard,Referral
+C0070,2024-01-10,FR,Standard,Paid Ads
+C0071,2024-09-04,DE,Budget,Organic
+C0072,2023-06-19,CH,Standard,Affiliate
+C0073,2024-01-05,ES,Premium,Referral
+C0074,2023-05-06,IT,Premium,Referral
+C0075,2024-06-16,CH,Premium,Affiliate
+C0076,2024-01-14,FR,Standard,Affiliate
+C0077,2023-09-30,ES,Budget,Organic
+C0078,2023-07-16,CH,Budget,Paid Ads
+C0079,2024-03-19,DE,Standard,Paid Ads
+C0080,2024-06-04,FR,Standard,Organic
+C0081,2024-12-19,DE,Standard,Organic
+C0082,2023-12-17,DE,Standard,Organic
+C0083,2023-05-29,DE,Standard,Referral
+C0084,2024-10-01,CH,Standard,Referral
+C0085,2024-05-06,IT,Budget,Referral
+C0086,2024-06-26,FR,Budget,Organic
+C0087,2023-04-13,FR,Budget,Organic
+C0088,2023-09-17,ES,Budget,Paid Ads
+C0089,2024-08-15,IT,Premium,Paid Ads
+C0090,2024-10-01,CH,Standard,Affiliate
+C0091,2023-12-16,FR,Budget,Affiliate
+C0092,2024-09-11,ES,Standard,Affiliate
+C0093,2024-10-08,DE,Standard,Affiliate
+C0094,2023-11-11,FR,Budget,Affiliate
+C0095,2024-11-18,ES,Budget,Paid Ads
+C0096,2023-08-30,CH,Budget,Organic
+C0097,2023-07-26,IT,Standard,Organic
+C0098,2024-06-13,CH,Budget,Paid Ads
+C0099,2024-05-11,IT,Budget,Organic
+C0100,2023-05-14,FR,Budget,Organic
+C0101,2024-10-01,DE,Standard,Affiliate
+C0102,2023-06-27,FR,Budget,Organic
+C0103,2024-09-11,DE,Standard,Affiliate
+C0104,2023-02-06,ES,Budget,Referral
+C0105,2024-09-05,FR,Standard,Paid Ads
+C0106,2024-08-29,CH,Standard,Referral
+C0107,2024-08-24,IT,Standard,Organic
+C0108,2024-06-01,IT,Budget,Paid Ads
+C0109,2024-01-11,FR,Standard,Organic
+C0110,2024-06-30,CH,Premium,Affiliate
+C0111,2023-08-22,ES,Budget,Organic
+C0112,2024-08-24,IT,Budget,Organic
+C0113,2024-03-13,ES,Premium,Referral
+C0114,2024-01-02,ES,Standard,Referral
+C0115,2024-02-05,IT,Budget,Paid Ads
+C0116,2024-03-22,DE,Budget,Paid Ads
+C0117,2023-02-28,CH,Standard,Organic
+C0118,2023-05-14,DE,Standard,Referral
+C0119,2023-07-30,IT,Standard,Organic
+C0120,2023-04-25,ES,Premium,Organic
+C0121,2023-12-19,CH,Standard,Organic
+C0122,2024-06-03,FR,Budget,Organic
+C0123,2024-05-24,DE,Standard,Organic
+C0124,2024-01-11,ES,Budget,Paid Ads
+C0125,2024-10-18,DE,Budget,Organic
+C0126,2024-03-20,DE,Budget,Organic
+C0127,2023-03-30,DE,Budget,Paid Ads
+C0128,2024-08-13,DE,Standard,Organic
+C0129,2024-03-27,CH,Budget,Referral
+C0130,2024-05-09,CH,Standard,Affiliate
+C0131,2024-03-20,FR,Standard,Paid Ads
+C0132,2024-03-11,DE,Standard,Affiliate
+C0133,2023-04-08,DE,Standard,Organic
+C0134,2024-03-15,FR,Standard,Organic
+C0135,2024-09-04,DE,Standard,Referral
+C0136,2023-09-11,IT,Budget,Referral
+C0137,2024-04-16,DE,Standard,Referral
+C0138,2023-02-23,FR,Standard,Organic
+C0139,2023-10-13,FR,Budget,Referral
+C0140,2023-12-17,FR,Budget,Paid Ads
+C0141,2025-01-19,DE,Budget,Organic
+C0142,2023-07-07,DE,Standard,Organic
+C0143,2023-08-22,ES,Standard,Affiliate
+C0144,2023-11-26,DE,Budget,Organic
+C0145,2025-01-26,CH,Standard,Referral
+C0146,2024-10-16,CH,Premium,Paid Ads
+C0147,2023-02-26,FR,Budget,Referral
+C0148,2023-07-22,FR,Premium,Referral
+C0149,2024-09-23,IT,Budget,Affiliate
+C0150,2023-03-15,ES,Premium,Organic
+C0151,2024-10-18,FR,Premium,Organic
+C0152,2023-08-25,FR,Budget,Paid Ads
+C0153,2024-12-02,DE,Standard,Paid Ads
+C0154,2023-09-03,CH,Premium,Organic
+C0155,2023-12-15,IT,Premium,Organic
+C0156,2024-05-29,DE,Premium,Organic
+C0157,2023-05-04,FR,Standard,Organic
+C0158,2024-03-14,ES,Budget,Organic
+C0159,2024-02-05,DE,Standard,Affiliate
+C0160,2024-08-27,CH,Standard,Organic
+C0161,2025-01-29,IT,Standard,Affiliate
+C0162,2024-05-31,DE,Standard,Affiliate
+C0163,2023-11-27,DE,Standard,Organic
+C0164,2023-11-25,DE,Budget,Referral
+C0165,2023-12-03,ES,Standard,Paid Ads
+C0166,2024-09-18,DE,Budget,Referral
+C0167,2023-09-23,DE,Standard,Organic
+C0168,2023-06-03,DE,Standard,Organic
+C0169,2023-10-03,DE,Standard,Organic
+C0170,2023-02-17,IT,Standard,Paid Ads
+C0171,2023-04-19,DE,Budget,Affiliate
+C0172,2023-04-07,CH,Premium,Referral
+C0173,2024-08-18,CH,Standard,Referral
+C0174,2024-07-13,ES,Budget,Affiliate
+C0175,2024-06-24,DE,Budget,Referral
+C0176,2024-01-04,ES,Budget,Organic
+C0177,2024-07-09,IT,Standard,Affiliate
+C0178,2023-05-29,DE,Premium,Paid Ads
+C0179,2024-11-20,IT,Standard,Organic
+C0180,2024-02-02,ES,Budget,Paid Ads
+C0181,2024-12-17,FR,Premium,Affiliate
+C0182,2023-05-23,ES,Budget,Organic
+C0183,2024-01-30,CH,Premium,Paid Ads
+C0184,2024-06-24,IT,Budget,Organic
+C0185,2024-01-29,ES,Standard,Organic
+C0186,2023-12-24,FR,Premium,Organic
+C0187,2023-06-02,ES,Budget,Referral
+C0188,2023-11-06,FR,Standard,Affiliate
+C0189,2023-07-25,IT,Premium,Organic
+C0190,2023-09-09,IT,Budget,Organic
+C0191,2024-06-14,DE,Budget,Organic
+C0192,2024-05-06,FR,Standard,Organic
+C0193,2024-04-19,FR,Budget,Paid Ads
+C0194,2023-10-23,DE,Budget,Referral
+C0195,2025-01-02,DE,Standard,Paid Ads
+C0196,2023-04-06,FR,Standard,Paid Ads
+C0197,2023-10-09,DE,Budget,Paid Ads
+C0198,2023-04-28,DE,Budget,Organic
+C0199,2023-10-06,IT,Standard,Organic
+C0200,2025-01-04,IT,Standard,Affiliate
+C0201,2023-10-26,IT,Standard,Referral
+C0202,2024-11-26,FR,Standard,Affiliate
+C0203,2024-01-28,ES,Premium,Affiliate
+C0204,2024-06-26,CH,Standard,Paid Ads
+C0205,2024-01-01,DE,Budget,Affiliate
+C0206,2023-08-14,DE,Premium,Paid Ads
+C0207,2024-08-12,IT,Standard,Organic
+C0208,2025-01-09,DE,Budget,Organic
+C0209,2023-08-12,CH,Budget,Organic
+C0210,2024-08-23,ES,Standard,Organic
+C0211,2023-08-10,DE,Budget,Paid Ads
+C0212,2024-07-09,DE,Budget,Referral
+C0213,2024-08-30,ES,Budget,Referral
+C0214,2023-12-26,CH,Standard,Paid Ads
+C0215,2024-07-23,DE,Standard,Organic
+C0216,2023-08-19,ES,Standard,Referral
+C0217,2023-03-30,ES,Budget,Paid Ads
+C0218,2023-04-12,CH,Budget,Organic
+C0219,2023-12-24,IT,Standard,Organic
+C0220,2024-11-21,FR,Budget,Organic
+C0221,2023-05-05,DE,Standard,Organic
+C0222,2023-12-31,CH,Budget,Referral
+C0223,2024-06-29,FR,Budget,Referral
+C0224,2023-06-28,IT,Budget,Referral
+C0225,2024-07-12,ES,Standard,Organic
+C0226,2023-09-12,DE,Budget,Referral
+C0227,2024-09-14,CH,Standard,Referral
+C0228,2024-03-30,DE,Budget,Organic
+C0229,2024-03-06,ES,Standard,Paid Ads
+C0230,2023-06-10,FR,Standard,Paid Ads
+C0231,2024-01-05,IT,Budget,Paid Ads
+C0232,2024-10-19,CH,Standard,Organic
+C0233,2023-02-15,FR,Budget,Paid Ads
+C0234,2024-08-08,IT,Standard,Organic
+C0235,2024-01-27,IT,Budget,Organic
+C0236,2024-07-10,CH,Standard,Organic
+C0237,2024-05-30,IT,Premium,Affiliate
+C0238,2023-12-13,ES,Budget,Organic
+C0239,2023-09-14,FR,Standard,Paid Ads
+C0240,2024-05-04,CH,Standard,Organic
+C0241,2023-05-14,DE,Budget,Affiliate
+C0242,2024-04-02,IT,Standard,Paid Ads
+C0243,2023-04-11,CH,Standard,Affiliate
+C0244,2024-05-21,FR,Premium,Organic
+C0245,2024-05-05,DE,Premium,Organic
+C0246,2023-04-03,ES,Budget,Paid Ads
+C0247,2024-08-07,FR,Standard,Organic
+C0248,2023-12-01,IT,Standard,Referral
+C0249,2024-08-29,DE,Budget,Affiliate
+C0250,2023-03-03,ES,Budget,Paid Ads
+C0251,2023-06-12,DE,Premium,Affiliate
+C0252,2024-01-28,DE,Budget,Paid Ads
+C0253,2023-06-18,ES,Standard,Organic
+C0254,2023-09-30,ES,Standard,Paid Ads
+C0255,2024-05-28,DE,Budget,Organic
+C0256,2023-05-17,CH,Standard,Referral
+C0257,2024-06-10,IT,Premium,Organic
+C0258,2023-04-17,ES,Standard,Organic
+C0259,2023-06-09,FR,Budget,Paid Ads
+C0260,2024-04-05,CH,Budget,Organic
+C0261,2024-09-03,IT,Premium,Organic
+C0262,2023-06-05,IT,Budget,Referral
+C0263,2023-09-08,IT,Standard,Organic
+C0264,2024-12-08,CH,Budget,Paid Ads
+C0265,2025-01-24,DE,Standard,Organic
+C0266,2024-03-31,ES,Premium,Organic
+C0267,2023-12-24,ES,Standard,Organic
+C0268,2023-10-12,IT,Premium,Referral
+C0269,2024-04-23,DE,Budget,Affiliate
+C0270,2024-04-07,DE,Standard,Organic
+C0271,2023-09-04,IT,Premium,Affiliate
+C0272,2023-02-17,DE,Standard,Paid Ads
+C0273,2023-05-22,ES,Budget,Paid Ads
+C0274,2025-01-01,FR,Premium,Referral
+C0275,2023-12-03,IT,Budget,Referral
+C0276,2024-01-19,ES,Standard,Referral
+C0277,2024-01-08,FR,Premium,Paid Ads
+C0278,2024-08-26,FR,Budget,Paid Ads
+C0279,2023-03-20,IT,Budget,Organic
+C0280,2023-04-02,CH,Budget,Organic
+C0281,2023-08-21,FR,Budget,Referral
+C0282,2024-01-22,IT,Budget,Organic
+C0283,2024-06-05,ES,Standard,Organic
+C0284,2024-01-25,CH,Budget,Organic
+C0285,2023-12-20,DE,Standard,Organic
+C0286,2024-12-17,FR,Budget,Paid Ads
+C0287,2023-05-29,FR,Budget,Paid Ads
+C0288,2024-03-24,DE,Budget,Paid Ads
+C0289,2024-03-03,DE,Standard,Organic
+C0290,2024-01-13,IT,Standard,Paid Ads
+C0291,2024-09-13,FR,Budget,Paid Ads
+C0292,2023-08-15,ES,Premium,Referral
+C0293,2024-12-29,DE,Standard,Paid Ads
+C0294,2023-10-01,DE,Budget,Paid Ads
+C0295,2024-03-05,IT,Premium,Paid Ads
+C0296,2024-02-16,ES,Budget,Affiliate
+C0297,2024-10-14,FR,Budget,Referral
+C0298,2023-12-18,DE,Standard,Paid Ads
+C0299,2023-08-28,DE,Budget,Paid Ads
+C0300,2023-02-16,CH,Budget,Organic
+C0301,2023-10-24,CH,Standard,Affiliate
+C0302,2024-09-27,FR,Budget,Organic
+C0303,2023-02-08,DE,Standard,Organic
+C0304,2024-11-17,CH,Premium,Affiliate
+C0305,2024-03-03,ES,Standard,Referral
+C0306,2023-05-14,IT,Standard,Organic
+C0307,2023-09-09,CH,Standard,Organic
+C0308,2024-03-12,DE,Premium,Organic
+C0309,2023-09-19,FR,Budget,Paid Ads
+C0310,2023-04-21,FR,Budget,Organic
+C0311,2024-06-01,IT,Standard,Affiliate
+C0312,2024-06-06,ES,Standard,Affiliate
+C0313,2023-04-28,ES,Budget,Paid Ads
+C0314,2023-08-25,ES,Standard,Paid Ads
+C0315,2023-07-29,ES,Budget,Organic
+C0316,2024-05-28,ES,Premium,Organic
+C0317,2024-07-18,DE,Budget,Referral
+C0318,2024-07-16,DE,Budget,Organic
+C0319,2024-12-18,FR,Budget,Organic
+C0320,2024-08-15,CH,Budget,Organic
+C0321,2023-09-23,DE,Budget,Organic
+C0322,2023-04-20,ES,Budget,Paid Ads
+C0323,2024-04-25,IT,Budget,Referral
+C0324,2024-12-01,CH,Budget,Referral
+C0325,2025-01-13,DE,Budget,Paid Ads
+C0326,2023-07-19,FR,Budget,Referral
+C0327,2023-07-23,DE,Budget,Paid Ads
+C0328,2023-02-28,ES,Budget,Referral
+C0329,2023-05-15,CH,Budget,Paid Ads
+C0330,2024-03-12,IT,Budget,Organic
+C0331,2024-03-06,FR,Budget,Affiliate
+C0332,2023-10-30,FR,Standard,Organic
+C0333,2023-09-15,FR,Premium,Organic
+C0334,2024-09-29,IT,Premium,Organic
+C0335,2024-01-03,IT,Standard,Paid Ads
+C0336,2024-09-13,DE,Standard,Paid Ads
+C0337,2025-01-05,ES,Budget,Paid Ads
+C0338,2023-09-20,DE,Standard,Affiliate
+C0339,2023-06-29,ES,Standard,Organic
+C0340,2024-12-28,DE,Standard,Paid Ads
+C0341,2024-05-10,FR,Premium,Organic
+C0342,2023-09-01,ES,Standard,Referral
+C0343,2024-04-30,DE,Standard,Organic
+C0344,2024-02-12,FR,Standard,Organic
+C0345,2024-11-23,FR,Budget,Paid Ads
+C0346,2023-08-07,DE,Premium,Referral
+C0347,2025-01-25,IT,Budget,Referral
+C0348,2024-12-16,ES,Premium,Paid Ads
+C0349,2023-06-13,ES,Standard,Referral
+C0350,2023-06-01,FR,Budget,Paid Ads
+C0351,2024-02-25,CH,Standard,Organic
+C0352,2023-03-05,DE,Budget,Organic
+C0353,2023-09-07,DE,Standard,Organic
+C0354,2023-12-16,DE,Standard,Organic
+C0355,2025-01-09,ES,Standard,Paid Ads
+C0356,2025-01-26,ES,Premium,Paid Ads
+C0357,2023-05-22,IT,Budget,Paid Ads
+C0358,2024-11-13,CH,Budget,Paid Ads
+C0359,2023-04-08,CH,Standard,Referral
+C0360,2024-08-01,CH,Budget,Referral
+C0361,2024-10-11,CH,Standard,Organic
+C0362,2024-11-13,FR,Budget,Organic
+C0363,2023-07-14,DE,Budget,Paid Ads
+C0364,2024-11-15,DE,Standard,Paid Ads
+C0365,2023-04-26,ES,Premium,Organic
+C0366,2024-02-15,CH,Budget,Organic
+C0367,2024-01-10,ES,Premium,Referral
+C0368,2023-09-19,DE,Standard,Paid Ads
+C0369,2023-02-17,CH,Budget,Organic
+C0370,2024-08-18,DE,Standard,Paid Ads
+C0371,2023-10-04,FR,Standard,Affiliate
+C0372,2024-05-29,DE,Budget,Organic
+C0373,2023-11-27,DE,Standard,Affiliate
+C0374,2023-11-01,ES,Budget,Organic
+C0375,2024-11-09,FR,Budget,Paid Ads
+C0376,2023-04-11,IT,Standard,Paid Ads
+C0377,2024-07-23,CH,Standard,Organic
+C0378,2024-07-30,FR,Standard,Affiliate
+C0379,2023-11-05,CH,Budget,Paid Ads
+C0380,2023-08-11,DE,Premium,Affiliate
+C0381,2023-02-04,ES,Standard,Organic
+C0382,2024-12-16,ES,Premium,Affiliate
+C0383,2024-12-24,IT,Standard,Affiliate
+C0384,2023-07-27,CH,Budget,Paid Ads
+C0385,2023-02-24,DE,Standard,Organic
+C0386,2023-05-01,ES,Budget,Referral
+C0387,2023-03-22,FR,Standard,Paid Ads
+C0388,2024-09-30,DE,Standard,Affiliate
+C0389,2024-11-13,FR,Budget,Paid Ads
+C0390,2023-05-24,IT,Premium,Organic
+C0391,2024-07-30,IT,Budget,Organic
+C0392,2023-06-12,IT,Standard,Referral
+C0393,2023-10-27,IT,Standard,Affiliate
+C0394,2024-04-14,DE,Budget,Organic
+C0395,2024-07-11,ES,Standard,Referral
+C0396,2024-11-01,FR,Standard,Affiliate
+C0397,2023-03-05,IT,Budget,Organic
+C0398,2023-06-24,DE,Standard,Organic
+C0399,2023-08-25,ES,Budget,Referral
+C0400,2023-09-15,FR,Standard,Paid Ads
+C0401,2025-01-30,DE,Budget,Organic
+C0402,2024-08-22,CH,Premium,Referral
+C0403,2023-09-23,DE,Premium,Paid Ads
+C0404,2025-01-11,DE,Budget,Affiliate
+C0405,2024-01-31,IT,Budget,Affiliate
+C0406,2024-02-02,FR,Standard,Referral
+C0407,2023-12-15,ES,Standard,Paid Ads
+C0408,2023-05-17,FR,Standard,Organic
+C0409,2024-12-15,IT,Budget,Paid Ads
+C0410,2023-02-11,CH,Budget,Organic
+C0411,2023-06-08,IT,Premium,Referral
+C0412,2023-07-18,CH,Standard,Organic
+C0413,2023-08-24,CH,Premium,Paid Ads
+C0414,2023-05-08,ES,Standard,Organic
+C0415,2023-02-14,FR,Premium,Organic
+C0416,2024-06-10,DE,Budget,Organic
+C0417,2025-01-09,IT,Budget,Paid Ads
+C0418,2023-05-01,ES,Premium,Referral
+C0419,2023-09-05,DE,Premium,Organic
+C0420,2024-02-06,FR,Budget,Affiliate
+C0421,2024-12-10,ES,Budget,Affiliate
+C0422,2024-06-22,IT,Standard,Organic
+C0423,2024-08-14,ES,Standard,Referral
+C0424,2024-03-31,CH,Budget,Paid Ads
+C0425,2023-12-02,IT,Premium,Organic
+C0426,2023-06-27,FR,Budget,Paid Ads
+C0427,2024-10-24,ES,Standard,Organic
+C0428,2024-09-10,FR,Budget,Affiliate
+C0429,2023-02-19,IT,Budget,Affiliate
+C0430,2024-07-07,FR,Standard,Referral
+C0431,2023-04-03,CH,Budget,Paid Ads
+C0432,2024-07-25,IT,Standard,Paid Ads
+C0433,2024-09-26,CH,Budget,Affiliate
+C0434,2023-05-07,ES,Premium,Organic
+C0435,2023-12-15,FR,Standard,Organic
+C0436,2023-05-02,IT,Premium,Paid Ads
+C0437,2024-03-21,FR,Budget,Organic
+C0438,2024-12-10,FR,Budget,Organic
+C0439,2023-04-01,FR,Budget,Organic
+C0440,2023-11-18,DE,Standard,Paid Ads
+C0441,2025-01-12,DE,Budget,Organic
+C0442,2023-09-08,IT,Budget,Organic
+C0443,2023-05-08,IT,Budget,Organic
+C0444,2024-01-24,IT,Budget,Paid Ads
+C0445,2024-02-07,DE,Budget,Affiliate
+C0446,2024-05-30,FR,Budget,Organic
+C0447,2023-09-18,DE,Budget,Referral
+C0448,2024-12-30,IT,Standard,Referral
+C0449,2024-02-16,ES,Budget,Organic
+C0450,2023-08-29,DE,Budget,Referral
+C0451,2025-01-02,IT,Standard,Referral
+C0452,2024-12-08,DE,Standard,Paid Ads
+C0453,2024-01-31,FR,Budget,Organic
+C0454,2023-02-19,DE,Standard,Organic
+C0455,2024-04-12,FR,Premium,Affiliate
+C0456,2024-03-12,IT,Standard,Referral
+C0457,2023-05-20,ES,Premium,Affiliate
+C0458,2024-05-09,DE,Standard,Affiliate
+C0459,2024-10-07,CH,Budget,Organic
+C0460,2023-04-19,IT,Standard,Referral
+C0461,2024-07-13,ES,Standard,Paid Ads
+C0462,2023-05-14,IT,Premium,Referral
+C0463,2024-08-01,FR,Standard,Organic
+C0464,2023-12-04,IT,Budget,Organic
+C0465,2023-02-05,FR,Standard,Referral
+C0466,2025-01-07,ES,Budget,Referral
+C0467,2023-06-02,FR,Standard,Paid Ads
+C0468,2024-04-11,IT,Standard,Organic
+C0469,2023-06-13,DE,Standard,Organic
+C0470,2024-12-14,FR,Premium,Affiliate
+C0471,2024-07-24,ES,Standard,Paid Ads
+C0472,2024-09-10,IT,Standard,Paid Ads
+C0473,2023-12-13,FR,Standard,Paid Ads
+C0474,2024-01-08,ES,Standard,Paid Ads
+C0475,2024-05-09,ES,Premium,Paid Ads
+C0476,2024-08-27,FR,Budget,Paid Ads
+C0477,2024-10-12,CH,Standard,Referral
+C0478,2023-02-14,CH,Budget,Affiliate
+C0479,2024-05-31,IT,Premium,Affiliate
+C0480,2023-04-21,FR,Standard,Paid Ads
+C0481,2023-08-30,DE,Standard,Paid Ads
+C0482,2024-09-29,ES,Budget,Referral
+C0483,2023-08-03,ES,Budget,Referral
+C0484,2024-09-05,ES,Standard,Paid Ads
+C0485,2024-01-05,ES,Budget,Referral
+C0486,2023-07-21,IT,Budget,Referral
+C0487,2023-10-03,IT,Premium,Referral
+C0488,2024-02-23,IT,Standard,Referral
+C0489,2024-08-13,CH,Budget,Organic
+C0490,2024-04-18,CH,Budget,Paid Ads
+C0491,2024-12-14,DE,Premium,Paid Ads
+C0492,2024-10-27,IT,Standard,Organic
+C0493,2024-08-04,FR,Standard,Affiliate
+C0494,2024-04-16,FR,Budget,Paid Ads
+C0495,2023-08-31,CH,Budget,Organic
+C0496,2023-11-29,FR,Budget,Referral
+C0497,2023-04-28,DE,Standard,Referral
+C0498,2023-11-01,ES,Budget,Referral
+C0499,2024-12-09,ES,Budget,Paid Ads
+C0500,2023-12-09,DE,Standard,Affiliate
+C0501,2023-04-25,DE,Premium,Paid Ads
+C0502,2024-05-22,FR,Standard,Paid Ads
+C0503,2025-01-04,IT,Standard,Organic
+C0504,2024-10-27,ES,Standard,Paid Ads
+C0505,2023-08-20,DE,Standard,Referral
+C0506,2023-12-29,IT,Budget,Paid Ads
+C0507,2024-02-24,DE,Standard,Paid Ads
+C0508,2023-08-01,FR,Standard,Referral
+C0509,2023-08-16,ES,Standard,Referral
+C0510,2023-07-24,DE,Premium,Organic
+C0511,2025-01-28,DE,Premium,Affiliate
+C0512,2024-07-30,FR,Budget,Referral
+C0513,2024-10-07,IT,Budget,Affiliate
+C0514,2024-09-19,ES,Budget,Affiliate
+C0515,2025-01-02,ES,Budget,Affiliate
+C0516,2023-04-18,DE,Budget,Referral
+C0517,2024-11-06,DE,Budget,Paid Ads
+C0518,2023-03-21,IT,Standard,Organic
+C0519,2024-01-14,FR,Standard,Paid Ads
+C0520,2024-04-10,ES,Premium,Referral
+C0521,2023-10-20,IT,Budget,Paid Ads
+C0522,2023-05-18,DE,Budget,Affiliate
+C0523,2023-06-21,ES,Standard,Organic
+C0524,2024-09-25,DE,Budget,Paid Ads
+C0525,2023-09-21,FR,Budget,Paid Ads
+C0526,2023-09-15,CH,Premium,Paid Ads
+C0527,2024-12-06,CH,Budget,Organic
+C0528,2023-05-17,IT,Budget,Organic
+C0529,2024-12-01,IT,Standard,Referral
+C0530,2024-12-05,ES,Standard,Paid Ads
+C0531,2024-04-13,ES,Standard,Organic
+C0532,2023-06-02,CH,Budget,Organic
+C0533,2023-05-25,DE,Standard,Paid Ads
+C0534,2023-08-28,IT,Budget,Organic
+C0535,2024-03-29,ES,Standard,Referral
+C0536,2023-05-24,FR,Standard,Referral
+C0537,2023-12-31,CH,Premium,Organic
+C0538,2023-04-26,FR,Budget,Paid Ads
+C0539,2024-03-01,DE,Standard,Organic
+C0540,2023-02-16,IT,Budget,Organic
+C0541,2024-07-03,FR,Budget,Affiliate
+C0542,2023-03-13,IT,Budget,Paid Ads
+C0543,2023-06-23,ES,Standard,Affiliate
+C0544,2023-06-08,ES,Budget,Organic
+C0545,2024-09-30,FR,Standard,Organic
+C0546,2023-03-12,FR,Budget,Paid Ads
+C0547,2023-12-11,IT,Premium,Paid Ads
+C0548,2024-04-08,ES,Standard,Affiliate
+C0549,2024-02-13,CH,Budget,Organic
+C0550,2024-06-12,ES,Budget,Affiliate
+C0551,2024-09-10,DE,Budget,Affiliate
+C0552,2023-11-15,ES,Premium,Paid Ads
+C0553,2024-09-28,DE,Budget,Organic
+C0554,2023-09-21,DE,Standard,Paid Ads
+C0555,2025-01-20,CH,Standard,Organic
+C0556,2024-02-04,DE,Standard,Referral
+C0557,2024-07-23,DE,Standard,Paid Ads
+C0558,2024-11-01,DE,Standard,Affiliate
+C0559,2024-09-02,FR,Premium,Paid Ads
+C0560,2024-10-15,IT,Budget,Paid Ads
+C0561,2024-02-28,DE,Standard,Referral
+C0562,2023-03-04,IT,Budget,Paid Ads
+C0563,2024-01-27,ES,Standard,Affiliate
+C0564,2023-06-13,DE,Premium,Organic
+C0565,2024-11-11,DE,Standard,Affiliate
+C0566,2023-07-24,ES,Standard,Referral
+C0567,2023-07-17,ES,Budget,Affiliate
+C0568,2023-08-02,CH,Standard,Paid Ads
+C0569,2024-05-15,ES,Budget,Referral
+C0570,2024-03-24,DE,Standard,Organic
+C0571,2024-12-25,FR,Standard,Referral
+C0572,2023-12-02,IT,Budget,Organic
+C0573,2023-08-26,FR,Budget,Organic
+C0574,2023-03-09,IT,Budget,Paid Ads
+C0575,2023-02-06,CH,Budget,Organic
+C0576,2023-11-01,IT,Budget,Paid Ads
+C0577,2024-12-08,CH,Premium,Referral
+C0578,2024-02-18,FR,Standard,Organic
+C0579,2024-11-15,DE,Budget,Referral
+C0580,2023-04-16,DE,Standard,Organic
+C0581,2023-04-10,IT,Standard,Referral
+C0582,2024-10-02,DE,Budget,Referral
+C0583,2023-04-20,DE,Budget,Paid Ads
+C0584,2023-03-10,DE,Budget,Referral
+C0585,2023-11-23,DE,Budget,Affiliate
+C0586,2024-12-08,ES,Standard,Referral
+C0587,2024-06-18,FR,Premium,Paid Ads
+C0588,2023-04-14,ES,Budget,Paid Ads
+C0589,2024-10-04,DE,Standard,Referral
+C0590,2024-10-09,IT,Budget,Organic
+C0591,2024-09-08,FR,Standard,Referral
+C0592,2024-11-21,FR,Standard,Organic
+C0593,2023-07-26,ES,Budget,Referral
+C0594,2025-01-17,ES,Budget,Organic
+C0595,2023-09-23,ES,Standard,Organic
+C0596,2024-09-09,DE,Premium,Affiliate
+C0597,2024-03-30,DE,Budget,Affiliate
+C0598,2024-08-23,IT,Budget,Affiliate
+C0599,2024-05-04,FR,Budget,Affiliate
+C0600,2024-05-15,IT,Standard,Paid Ads
+C0601,2024-04-26,CH,Standard,Organic
+C0602,2024-08-23,CH,Standard,Organic
+C0603,2024-07-25,ES,Standard,Paid Ads
+C0604,2023-05-10,IT,Premium,Organic
+C0605,2024-09-26,DE,Standard,Affiliate
+C0606,2024-02-27,DE,Budget,Organic
+C0607,2023-09-25,IT,Standard,Organic
+C0608,2024-02-11,CH,Budget,Organic
+C0609,2025-01-07,FR,Budget,Organic
+C0610,2024-10-19,FR,Premium,Organic
+C0611,2024-10-02,IT,Standard,Referral
+C0612,2024-01-05,ES,Premium,Organic
+C0613,2024-08-27,CH,Standard,Paid Ads
+C0614,2023-11-09,FR,Standard,Affiliate
+C0615,2024-06-16,FR,Standard,Paid Ads
+C0616,2024-05-13,CH,Budget,Referral
+C0617,2023-08-02,FR,Budget,Paid Ads
+C0618,2023-08-14,CH,Standard,Organic
+C0619,2023-03-17,IT,Budget,Organic
+C0620,2023-05-14,DE,Premium,Affiliate
+C0621,2023-12-14,DE,Budget,Paid Ads
+C0622,2024-01-16,DE,Budget,Organic
+C0623,2023-06-01,ES,Standard,Paid Ads
+C0624,2023-12-02,IT,Budget,Referral
+C0625,2024-04-17,DE,Premium,Referral
+C0626,2023-07-21,ES,Standard,Paid Ads
+C0627,2023-10-06,CH,Budget,Affiliate
+C0628,2023-10-27,CH,Standard,Referral
+C0629,2024-02-05,ES,Standard,Paid Ads
+C0630,2023-10-26,DE,Standard,Organic
+C0631,2024-07-23,DE,Standard,Organic
+C0632,2023-09-28,CH,Standard,Affiliate
+C0633,2023-12-15,DE,Standard,Paid Ads
+C0634,2023-11-05,IT,Budget,Paid Ads
+C0635,2023-06-14,DE,Standard,Paid Ads
+C0636,2024-06-16,DE,Premium,Organic
+C0637,2023-07-23,DE,Standard,Referral
+C0638,2023-09-06,FR,Standard,Organic
+C0639,2024-09-02,DE,Standard,Referral
+C0640,2024-12-25,DE,Standard,Paid Ads
+C0641,2024-06-05,ES,Premium,Organic
+C0642,2024-12-01,FR,Budget,Organic
+C0643,2024-10-17,FR,Budget,Referral
+C0644,2024-01-18,DE,Standard,Organic
+C0645,2024-08-17,FR,Standard,Organic
+C0646,2023-09-29,FR,Standard,Referral
+C0647,2024-01-03,IT,Budget,Paid Ads
+C0648,2024-02-27,DE,Standard,Paid Ads
+C0649,2025-01-03,ES,Standard,Organic
+C0650,2024-10-13,ES,Standard,Affiliate
+C0651,2024-01-24,DE,Standard,Organic
+C0652,2024-05-23,DE,Standard,Organic
+C0653,2023-06-28,DE,Standard,Organic
+C0654,2024-09-11,IT,Standard,Organic
+C0655,2024-03-11,DE,Standard,Organic
+C0656,2024-02-25,ES,Standard,Organic
+C0657,2024-08-14,IT,Standard,Organic
+C0658,2024-05-08,ES,Budget,Paid Ads
+C0659,2023-03-25,CH,Budget,Affiliate
+C0660,2023-08-30,ES,Standard,Organic
+C0661,2023-06-10,DE,Premium,Organic
+C0662,2024-07-22,FR,Standard,Affiliate
+C0663,2023-02-26,FR,Budget,Affiliate
+C0664,2023-06-28,ES,Standard,Referral
+C0665,2024-04-12,CH,Budget,Organic
+C0666,2024-06-22,ES,Standard,Paid Ads
+C0667,2024-02-03,DE,Standard,Organic
+C0668,2024-10-22,ES,Standard,Organic
+C0669,2024-12-03,CH,Standard,Paid Ads
+C0670,2023-05-08,CH,Budget,Paid Ads
+C0671,2024-12-28,ES,Standard,Paid Ads
+C0672,2024-04-25,FR,Premium,Paid Ads
+C0673,2024-05-11,FR,Standard,Organic
+C0674,2023-04-11,CH,Standard,Organic
+C0675,2024-04-30,DE,Budget,Referral
+C0676,2024-07-15,FR,Budget,Affiliate
+C0677,2024-03-31,DE,Budget,Organic
+C0678,2023-04-03,DE,Budget,Paid Ads
+C0679,2024-02-18,ES,Budget,Organic
+C0680,2024-12-16,CH,Premium,Organic
+C0681,2024-07-13,FR,Standard,Referral
+C0682,2023-05-12,FR,Budget,Organic
+C0683,2025-01-02,FR,Budget,Paid Ads
+C0684,2025-01-01,IT,Budget,Paid Ads
+C0685,2023-06-04,ES,Standard,Organic
+C0686,2024-09-08,ES,Budget,Organic
+C0687,2023-11-25,FR,Standard,Organic
+C0688,2024-04-09,FR,Standard,Affiliate
+C0689,2023-12-23,CH,Budget,Paid Ads
+C0690,2024-08-26,CH,Standard,Paid Ads
+C0691,2025-01-29,CH,Premium,Organic
+C0692,2024-09-04,IT,Standard,Paid Ads
+C0693,2024-12-12,CH,Budget,Organic
+C0694,2024-12-23,FR,Premium,Paid Ads
+C0695,2023-04-07,FR,Premium,Referral
+C0696,2023-08-05,FR,Standard,Paid Ads
+C0697,2024-07-12,DE,Standard,Organic
+C0698,2024-04-07,DE,Budget,Organic
+C0699,2023-03-09,IT,Standard,Organic
+C0700,2023-04-11,FR,Standard,Paid Ads
+C0701,2024-02-16,DE,Budget,Affiliate
+C0702,2024-04-26,CH,Standard,Organic
+C0703,2023-06-03,IT,Premium,Paid Ads
+C0704,2023-06-06,FR,Standard,Referral
+C0705,2023-05-06,ES,Budget,Organic
+C0706,2024-03-19,ES,Budget,Organic
+C0707,2023-02-06,CH,Premium,Organic
+C0708,2024-03-25,IT,Premium,Referral
+C0709,2024-01-14,DE,Standard,Paid Ads
+C0710,2024-01-07,ES,Standard,Referral
+C0711,2024-06-11,FR,Standard,Affiliate
+C0712,2024-02-18,ES,Standard,Referral
+C0713,2024-07-16,CH,Budget,Affiliate
+C0714,2024-08-12,DE,Budget,Referral
+C0715,2024-12-04,DE,Budget,Affiliate
+C0716,2024-09-07,IT,Standard,Referral
+C0717,2024-02-14,CH,Budget,Referral
+C0718,2024-01-26,DE,Budget,Referral
+C0719,2023-07-23,IT,Standard,Affiliate
+C0720,2024-04-14,ES,Budget,Paid Ads
+C0721,2023-05-13,CH,Budget,Paid Ads
+C0722,2024-12-12,CH,Standard,Paid Ads
+C0723,2024-10-10,DE,Budget,Affiliate
+C0724,2023-04-29,IT,Standard,Paid Ads
+C0725,2024-08-28,FR,Premium,Referral
+C0726,2023-04-27,ES,Budget,Referral
+C0727,2024-07-12,FR,Premium,Affiliate
+C0728,2023-04-06,CH,Premium,Organic
+C0729,2024-01-23,FR,Standard,Referral
+C0730,2024-05-26,DE,Standard,Referral
+C0731,2024-07-17,IT,Standard,Affiliate
+C0732,2023-12-04,CH,Standard,Affiliate
+C0733,2024-12-05,CH,Standard,Paid Ads
+C0734,2024-08-20,ES,Budget,Paid Ads
+C0735,2023-07-03,ES,Premium,Organic
+C0736,2024-06-05,ES,Standard,Affiliate
+C0737,2024-07-19,DE,Standard,Organic
+C0738,2023-10-02,CH,Budget,Referral
+C0739,2024-07-24,ES,Budget,Referral
+C0740,2024-11-18,FR,Standard,Paid Ads
+C0741,2024-09-20,DE,Standard,Organic
+C0742,2024-08-11,ES,Standard,Organic
+C0743,2024-05-09,CH,Budget,Affiliate
+C0744,2023-08-17,CH,Budget,Paid Ads
+C0745,2024-09-04,ES,Standard,Organic
+C0746,2023-10-25,IT,Budget,Referral
+C0747,2024-02-25,FR,Premium,Organic
+C0748,2023-09-18,FR,Budget,Affiliate
+C0749,2023-09-17,FR,Budget,Organic
+C0750,2023-05-27,DE,Budget,Organic
+C0751,2025-01-03,IT,Standard,Organic
+C0752,2023-05-20,ES,Standard,Paid Ads
+C0753,2023-04-05,FR,Standard,Paid Ads
+C0754,2024-12-16,FR,Premium,Referral
+C0755,2024-03-12,ES,Budget,Paid Ads
+C0756,2023-12-18,DE,Standard,Organic
+C0757,2024-07-24,CH,Budget,Organic
+C0758,2023-11-08,CH,Budget,Organic
+C0759,2023-05-05,IT,Standard,Affiliate
+C0760,2024-07-18,DE,Budget,Organic
+C0761,2023-06-09,IT,Standard,Affiliate
+C0762,2024-03-11,FR,Standard,Organic
+C0763,2024-12-25,IT,Standard,Organic
+C0764,2024-12-16,DE,Standard,Organic
+C0765,2023-10-22,CH,Standard,Organic
+C0766,2024-08-24,CH,Budget,Referral
+C0767,2024-04-23,DE,Budget,Paid Ads
+C0768,2024-01-17,DE,Budget,Organic
+C0769,2023-05-14,DE,Standard,Referral
+C0770,2023-11-03,FR,Premium,Paid Ads
+C0771,2024-05-22,DE,Budget,Affiliate
+C0772,2025-01-22,ES,Standard,Affiliate
+C0773,2023-02-04,FR,Standard,Referral
+C0774,2024-07-09,ES,Standard,Referral
+C0775,2024-10-11,ES,Standard,Referral
+C0776,2024-12-27,DE,Standard,Paid Ads
+C0777,2023-12-07,IT,Standard,Referral
+C0778,2023-04-28,ES,Premium,Organic
+C0779,2023-08-18,IT,Budget,Referral
+C0780,2024-10-14,FR,Premium,Affiliate
+C0781,2024-11-03,FR,Budget,Organic
+C0782,2024-05-11,DE,Standard,Referral
+C0783,2023-05-01,CH,Budget,Affiliate
+C0784,2023-05-01,ES,Budget,Organic
+C0785,2024-01-16,ES,Budget,Paid Ads
+C0786,2024-04-06,DE,Standard,Affiliate
+C0787,2023-02-24,IT,Budget,Affiliate
+C0788,2024-06-16,FR,Budget,Organic
+C0789,2024-03-05,ES,Standard,Organic
+C0790,2023-02-09,DE,Standard,Referral
+C0791,2023-04-11,ES,Standard,Organic
+C0792,2023-12-30,ES,Premium,Organic
+C0793,2024-07-13,DE,Standard,Organic
+C0794,2024-09-26,DE,Budget,Organic
+C0795,2023-12-13,ES,Budget,Paid Ads
+C0796,2023-09-04,DE,Premium,Referral
+C0797,2025-01-08,CH,Budget,Paid Ads
+C0798,2024-01-02,ES,Standard,Referral
+C0799,2023-09-19,CH,Premium,Paid Ads
+C0800,2023-12-21,FR,Premium,Organic
+C0801,2023-02-09,FR,Standard,Organic
+C0802,2023-09-09,DE,Standard,Organic
+C0803,2024-02-12,ES,Standard,Organic
+C0804,2024-12-03,FR,Standard,Organic
+C0805,2024-07-24,DE,Budget,Organic
+C0806,2024-08-25,FR,Budget,Organic
+C0807,2024-03-05,ES,Standard,Referral
+C0808,2023-04-22,DE,Budget,Paid Ads
+C0809,2023-11-13,ES,Standard,Affiliate
+C0810,2025-01-29,IT,Budget,Referral
+C0811,2023-03-05,ES,Premium,Paid Ads
+C0812,2024-11-04,ES,Standard,Organic
+C0813,2024-06-15,ES,Standard,Paid Ads
+C0814,2023-08-27,ES,Standard,Organic
+C0815,2024-08-22,DE,Budget,Paid Ads
+C0816,2024-10-04,IT,Standard,Paid Ads
+C0817,2023-03-04,CH,Budget,Paid Ads
+C0818,2023-04-19,CH,Premium,Organic
+C0819,2024-06-01,ES,Standard,Referral
+C0820,2025-01-31,ES,Premium,Referral
+C0821,2023-02-18,IT,Premium,Referral
+C0822,2024-06-01,CH,Premium,Paid Ads
+C0823,2023-05-11,CH,Budget,Paid Ads
+C0824,2024-05-21,FR,Premium,Organic
+C0825,2024-05-01,FR,Standard,Referral
+C0826,2023-04-08,FR,Standard,Paid Ads
+C0827,2024-06-12,DE,Standard,Organic
+C0828,2024-11-17,DE,Budget,Organic
+C0829,2024-10-24,IT,Budget,Affiliate
+C0830,2023-02-22,FR,Budget,Paid Ads
+C0831,2023-07-30,ES,Budget,Paid Ads
+C0832,2023-07-27,IT,Standard,Paid Ads
+C0833,2023-12-29,DE,Premium,Paid Ads
+C0834,2023-05-16,DE,Standard,Paid Ads
+C0835,2024-10-17,DE,Standard,Organic
+C0836,2024-08-21,ES,Standard,Paid Ads
+C0837,2024-09-13,DE,Standard,Referral
+C0838,2023-06-25,CH,Budget,Organic
+C0839,2023-02-11,ES,Standard,Referral
+C0840,2024-11-27,ES,Budget,Organic
+C0841,2023-08-31,DE,Standard,Referral
+C0842,2024-05-25,DE,Standard,Paid Ads
+C0843,2024-11-26,DE,Standard,Referral
+C0844,2023-02-27,DE,Premium,Paid Ads
+C0845,2023-02-05,DE,Budget,Affiliate
+C0846,2023-02-04,CH,Premium,Paid Ads
+C0847,2023-05-26,ES,Standard,Referral
+C0848,2023-03-10,CH,Standard,Referral
+C0849,2024-09-22,IT,Standard,Organic
+C0850,2024-04-18,DE,Standard,Organic
+C0851,2025-01-17,ES,Premium,Paid Ads
+C0852,2024-09-08,IT,Standard,Organic
+C0853,2025-01-05,ES,Standard,Paid Ads
+C0854,2023-07-25,ES,Standard,Paid Ads
+C0855,2023-08-30,FR,Standard,Paid Ads
+C0856,2024-10-13,DE,Premium,Organic
+C0857,2023-07-30,DE,Budget,Referral
+C0858,2023-03-14,FR,Standard,Paid Ads
+C0859,2024-06-04,ES,Budget,Referral
+C0860,2024-09-08,FR,Budget,Organic
+C0861,2025-01-08,IT,Standard,Paid Ads
+C0862,2024-12-10,CH,Budget,Organic
+C0863,2023-04-29,DE,Budget,Referral
+C0864,2024-08-18,FR,Budget,Organic
+C0865,2024-10-11,IT,Standard,Affiliate
+C0866,2024-06-25,IT,Standard,Organic
+C0867,2024-09-22,FR,Premium,Paid Ads
+C0868,2024-10-05,DE,Budget,Organic
+C0869,2023-12-24,IT,Standard,Paid Ads
+C0870,2023-03-02,DE,Standard,Paid Ads
+C0871,2023-12-31,ES,Standard,Paid Ads
+C0872,2023-06-28,DE,Standard,Organic
+C0873,2023-04-25,DE,Budget,Organic
+C0874,2023-05-03,CH,Standard,Organic
+C0875,2024-06-24,CH,Standard,Affiliate
+C0876,2024-02-04,CH,Standard,Paid Ads
+C0877,2024-03-01,FR,Standard,Organic
+C0878,2024-07-29,ES,Standard,Affiliate
+C0879,2024-03-07,CH,Standard,Organic
+C0880,2024-05-06,CH,Budget,Paid Ads
+C0881,2023-04-04,FR,Standard,Referral
+C0882,2024-10-15,DE,Premium,Affiliate
+C0883,2023-12-26,CH,Budget,Referral
+C0884,2023-05-25,DE,Standard,Paid Ads
+C0885,2024-09-17,IT,Budget,Affiliate
+C0886,2024-07-22,DE,Standard,Organic
+C0887,2023-03-11,ES,Budget,Affiliate
+C0888,2023-06-22,CH,Standard,Referral
+C0889,2023-02-12,ES,Budget,Affiliate
+C0890,2023-08-17,CH,Standard,Organic
+C0891,2023-04-15,DE,Premium,Organic
+C0892,2024-07-03,ES,Budget,Referral
+C0893,2024-02-17,IT,Premium,Paid Ads
+C0894,2025-01-17,IT,Premium,Paid Ads
+C0895,2024-08-01,FR,Premium,Affiliate
+C0896,2024-04-23,IT,Budget,Paid Ads
+C0897,2024-02-08,ES,Standard,Organic
+C0898,2023-03-12,IT,Budget,Paid Ads
+C0899,2023-03-24,FR,Budget,Organic
+C0900,2024-04-26,IT,Premium,Organic
+C0901,2023-02-04,IT,Standard,Organic
+C0902,2023-03-03,ES,Standard,Referral
+C0903,2023-07-11,FR,Budget,Referral
+C0904,2024-11-08,FR,Standard,Paid Ads
+C0905,2024-01-02,ES,Standard,Paid Ads
+C0906,2024-07-03,CH,Standard,Referral
+C0907,2023-11-28,IT,Premium,Referral
+C0908,2023-06-07,CH,Budget,Affiliate
+C0909,2023-10-30,DE,Budget,Paid Ads
+C0910,2023-04-09,IT,Standard,Referral
+C0911,2024-08-17,DE,Premium,Paid Ads
+C0912,2023-06-15,DE,Budget,Paid Ads
+C0913,2023-11-03,IT,Budget,Affiliate
+C0914,2025-01-17,IT,Budget,Paid Ads
+C0915,2024-04-08,ES,Premium,Paid Ads
+C0916,2024-01-02,FR,Budget,Organic
+C0917,2024-03-03,DE,Standard,Paid Ads
+C0918,2024-08-27,ES,Premium,Paid Ads
+C0919,2023-08-06,DE,Budget,Referral
+C0920,2024-05-11,DE,Standard,Paid Ads
+C0921,2024-10-30,FR,Standard,Organic
+C0922,2024-03-25,CH,Standard,Affiliate
+C0923,2023-12-24,ES,Budget,Organic
+C0924,2023-05-18,IT,Standard,Affiliate
+C0925,2023-08-01,IT,Budget,Organic
+C0926,2024-12-23,DE,Standard,Paid Ads
+C0927,2024-03-02,FR,Standard,Paid Ads
+C0928,2023-09-09,CH,Budget,Referral
+C0929,2023-12-03,DE,Budget,Organic
+C0930,2024-03-29,FR,Premium,Affiliate
+C0931,2024-02-28,FR,Budget,Paid Ads
+C0932,2024-06-26,DE,Budget,Paid Ads
+C0933,2023-08-08,CH,Standard,Paid Ads
+C0934,2024-05-20,IT,Budget,Organic
+C0935,2023-12-21,DE,Budget,Paid Ads
+C0936,2024-12-19,CH,Standard,Organic
+C0937,2023-05-27,IT,Budget,Organic
+C0938,2023-05-20,IT,Standard,Paid Ads
+C0939,2024-01-04,ES,Standard,Paid Ads
+C0940,2024-02-07,FR,Standard,Organic
+C0941,2024-06-20,ES,Budget,Organic
+C0942,2023-11-23,DE,Standard,Organic
+C0943,2024-11-29,FR,Budget,Organic
+C0944,2024-01-13,DE,Standard,Paid Ads
+C0945,2023-05-06,CH,Budget,Organic
+C0946,2023-04-29,FR,Standard,Affiliate
+C0947,2025-01-12,DE,Budget,Organic
+C0948,2023-05-10,IT,Budget,Organic
+C0949,2024-12-24,FR,Standard,Affiliate
+C0950,2023-08-23,FR,Budget,Organic
+C0951,2023-04-10,DE,Budget,Paid Ads
+C0952,2023-09-11,FR,Standard,Affiliate
+C0953,2024-04-25,FR,Standard,Affiliate
+C0954,2023-12-10,FR,Budget,Referral
+C0955,2024-08-28,DE,Premium,Organic
+C0956,2024-04-22,IT,Standard,Paid Ads
+C0957,2023-11-20,ES,Premium,Affiliate
+C0958,2024-05-09,CH,Standard,Affiliate
+C0959,2025-01-11,IT,Standard,Organic
+C0960,2023-11-29,ES,Standard,Paid Ads
+C0961,2023-05-24,ES,Standard,Organic
+C0962,2023-11-26,IT,Premium,Organic
+C0963,2024-10-07,ES,Budget,Referral
+C0964,2023-07-10,ES,Budget,Organic
+C0965,2024-12-25,IT,Budget,Organic
+C0966,2024-04-06,CH,Premium,Organic
+C0967,2024-04-15,DE,Standard,Paid Ads
+C0968,2023-09-20,DE,Standard,Organic
+C0969,2024-12-04,CH,Standard,Paid Ads
+C0970,2023-02-27,CH,Premium,Organic
+C0971,2023-09-07,FR,Budget,Affiliate
+C0972,2023-12-03,CH,Standard,Organic
+C0973,2024-01-15,CH,Premium,Paid Ads
+C0974,2024-01-13,ES,Budget,Organic
+C0975,2023-05-20,DE,Standard,Organic
+C0976,2023-07-15,DE,Budget,Organic
+C0977,2023-04-11,IT,Standard,Organic
+C0978,2024-03-25,ES,Standard,Organic
+C0979,2023-10-15,ES,Budget,Paid Ads
+C0980,2024-03-20,ES,Budget,Referral
+C0981,2024-04-07,ES,Budget,Organic
+C0982,2024-06-28,FR,Budget,Paid Ads
+C0983,2024-03-06,FR,Standard,Paid Ads
+C0984,2024-05-19,FR,Budget,Organic
+C0985,2024-04-05,IT,Budget,Paid Ads
+C0986,2024-05-22,ES,Standard,Organic
+C0987,2024-04-26,FR,Standard,Organic
+C0988,2023-09-20,CH,Standard,Paid Ads
+C0989,2023-07-31,FR,Premium,Affiliate
+C0990,2024-08-29,DE,Budget,Affiliate
+C0991,2023-10-09,DE,Standard,Affiliate
+C0992,2024-03-08,DE,Budget,Paid Ads
+C0993,2023-06-24,ES,Standard,Organic
+C0994,2023-12-13,FR,Premium,Organic
+C0995,2024-02-23,ES,Standard,Organic
+C0996,2024-05-03,IT,Standard,Organic
+C0997,2024-02-20,DE,Standard,Organic
+C0998,2023-10-22,DE,Budget,Paid Ads
+C0999,2025-01-04,ES,Standard,Organic
+C1000,2024-02-10,FR,Standard,Organic
+C1001,2024-09-13,ES,Premium,Referral
+C1002,2024-07-23,DE,Standard,Paid Ads
+C1003,2024-03-15,IT,Budget,Affiliate
+C1004,2024-11-09,ES,Standard,Organic
+C1005,2023-05-05,DE,Budget,Paid Ads
+C1006,2024-12-05,FR,Budget,Organic
+C1007,2024-10-14,ES,Budget,Paid Ads
+C1008,2024-02-04,FR,Standard,Organic
+C1009,2024-07-21,FR,Budget,Organic
+C1010,2024-02-16,FR,Budget,Paid Ads
+C1011,2023-08-16,FR,Budget,Organic
+C1012,2024-09-07,IT,Premium,Organic
+C1013,2023-07-30,IT,Standard,Affiliate
+C1014,2023-09-18,FR,Budget,Organic
+C1015,2024-02-15,ES,Budget,Paid Ads
+C1016,2024-10-05,DE,Standard,Paid Ads
+C1017,2023-11-08,DE,Budget,Organic
+C1018,2024-01-28,CH,Standard,Paid Ads
+C1019,2023-03-03,ES,Standard,Organic
+C1020,2023-04-26,DE,Premium,Referral
+C1021,2023-03-13,DE,Budget,Organic
+C1022,2023-03-25,CH,Standard,Organic
+C1023,2024-10-27,ES,Budget,Organic
+C1024,2024-10-08,DE,Premium,Affiliate
+C1025,2024-09-23,FR,Premium,Referral
+C1026,2023-03-13,IT,Standard,Affiliate
+C1027,2023-03-29,FR,Standard,Referral
+C1028,2023-08-25,DE,Budget,Referral
+C1029,2024-03-20,DE,Standard,Paid Ads
+C1030,2023-10-03,FR,Standard,Affiliate
+C1031,2024-01-23,CH,Budget,Paid Ads
+C1032,2023-06-07,ES,Standard,Paid Ads
+C1033,2024-07-19,IT,Standard,Paid Ads
+C1034,2023-09-18,IT,Standard,Paid Ads
+C1035,2023-03-21,ES,Standard,Organic
+C1036,2024-07-27,FR,Standard,Paid Ads
+C1037,2024-11-21,FR,Standard,Organic
+C1038,2023-02-11,ES,Budget,Referral
+C1039,2023-12-17,DE,Budget,Paid Ads
+C1040,2024-09-27,IT,Budget,Referral
+C1041,2024-07-01,IT,Standard,Paid Ads
+C1042,2024-10-19,DE,Standard,Referral
+C1043,2023-12-01,CH,Standard,Organic
+C1044,2023-10-31,DE,Budget,Affiliate
+C1045,2024-07-03,DE,Budget,Paid Ads
+C1046,2023-05-24,CH,Standard,Organic
+C1047,2023-07-26,FR,Budget,Organic
+C1048,2024-04-15,IT,Budget,Organic
+C1049,2024-06-03,ES,Standard,Paid Ads
+C1050,2023-04-29,ES,Budget,Referral
+C1051,2024-02-07,FR,Budget,Affiliate
+C1052,2023-10-25,FR,Standard,Referral
+C1053,2024-02-02,FR,Standard,Paid Ads
+C1054,2025-01-01,DE,Budget,Paid Ads
+C1055,2023-03-29,ES,Standard,Referral
+C1056,2025-01-28,FR,Premium,Referral
+C1057,2023-12-26,DE,Standard,Organic
+C1058,2024-08-18,ES,Standard,Affiliate
+C1059,2023-12-08,FR,Standard,Paid Ads
+C1060,2023-09-16,DE,Standard,Referral
+C1061,2024-08-17,DE,Standard,Affiliate
+C1062,2024-06-17,IT,Standard,Referral
+C1063,2023-05-17,IT,Budget,Organic
+C1064,2024-06-30,DE,Budget,Paid Ads
+C1065,2024-08-04,ES,Standard,Organic
+C1066,2023-11-11,ES,Budget,Referral
+C1067,2024-12-08,ES,Standard,Organic
+C1068,2024-05-14,DE,Standard,Referral
+C1069,2023-10-02,DE,Premium,Affiliate
+C1070,2023-02-08,ES,Budget,Organic
+C1071,2024-06-08,FR,Standard,Paid Ads
+C1072,2023-07-03,IT,Standard,Paid Ads
+C1073,2024-08-07,IT,Budget,Paid Ads
+C1074,2024-02-19,DE,Budget,Organic
+C1075,2024-01-08,IT,Budget,Organic
+C1076,2023-05-31,ES,Budget,Paid Ads
+C1077,2024-07-05,IT,Budget,Paid Ads
+C1078,2023-06-02,FR,Standard,Paid Ads
+C1079,2023-12-03,ES,Standard,Organic
+C1080,2024-10-04,CH,Budget,Paid Ads
+C1081,2024-12-04,IT,Budget,Paid Ads
+C1082,2025-01-24,ES,Budget,Organic
+C1083,2025-01-01,IT,Standard,Referral
+C1084,2024-03-13,FR,Budget,Organic
+C1085,2023-06-27,DE,Standard,Paid Ads
+C1086,2024-10-06,DE,Budget,Affiliate
+C1087,2024-09-08,CH,Budget,Paid Ads
+C1088,2025-01-24,CH,Premium,Paid Ads
+C1089,2024-05-21,CH,Budget,Organic
+C1090,2023-05-15,FR,Budget,Organic
+C1091,2024-02-03,IT,Budget,Organic
+C1092,2023-12-25,ES,Premium,Referral
+C1093,2024-10-09,DE,Standard,Referral
+C1094,2023-11-14,IT,Standard,Organic
+C1095,2023-09-29,IT,Premium,Organic
+C1096,2023-03-31,CH,Budget,Organic
+C1097,2024-10-03,DE,Premium,Paid Ads
+C1098,2024-08-06,IT,Budget,Paid Ads
+C1099,2023-03-03,ES,Standard,Referral
+C1100,2023-12-15,IT,Standard,Affiliate
+C1101,2024-01-17,ES,Budget,Organic
+C1102,2024-01-10,ES,Premium,Referral
+C1103,2024-12-03,FR,Budget,Paid Ads
+C1104,2023-05-22,IT,Premium,Organic
+C1105,2023-09-12,CH,Budget,Affiliate
+C1106,2023-06-13,ES,Standard,Organic
+C1107,2023-07-29,DE,Premium,Referral
+C1108,2024-11-25,FR,Budget,Referral
+C1109,2024-12-19,ES,Premium,Affiliate
+C1110,2023-03-05,FR,Standard,Paid Ads
+C1111,2024-05-08,IT,Standard,Organic
+C1112,2023-07-21,FR,Budget,Referral
+C1113,2023-06-21,ES,Standard,Referral
+C1114,2023-09-02,ES,Standard,Paid Ads
+C1115,2023-06-23,FR,Standard,Referral
+C1116,2024-01-25,IT,Budget,Organic
+C1117,2025-01-28,FR,Budget,Paid Ads
+C1118,2024-04-04,IT,Premium,Affiliate
+C1119,2024-07-13,IT,Budget,Organic
+C1120,2024-01-27,ES,Standard,Paid Ads
+C1121,2023-02-11,DE,Premium,Affiliate
+C1122,2023-04-03,DE,Budget,Referral
+C1123,2023-08-16,IT,Budget,Affiliate
+C1124,2023-07-29,CH,Standard,Paid Ads
+C1125,2024-10-07,CH,Budget,Affiliate
+C1126,2024-10-09,DE,Standard,Organic
+C1127,2024-10-17,FR,Standard,Paid Ads
+C1128,2024-05-12,ES,Standard,Paid Ads
+C1129,2024-03-13,DE,Budget,Referral
+C1130,2024-05-20,FR,Standard,Affiliate
+C1131,2023-11-25,ES,Standard,Referral
+C1132,2024-06-04,DE,Budget,Paid Ads
+C1133,2024-09-03,IT,Standard,Paid Ads
+C1134,2024-08-11,FR,Premium,Paid Ads
+C1135,2024-04-24,ES,Standard,Paid Ads
+C1136,2023-03-15,IT,Standard,Organic
+C1137,2024-07-14,ES,Budget,Paid Ads
+C1138,2023-10-26,DE,Budget,Affiliate
+C1139,2024-07-28,CH,Budget,Referral
+C1140,2024-03-01,IT,Budget,Referral
+C1141,2024-11-06,DE,Premium,Paid Ads
+C1142,2023-10-06,DE,Budget,Paid Ads
+C1143,2024-12-12,DE,Standard,Organic
+C1144,2024-10-10,ES,Budget,Paid Ads
+C1145,2023-10-01,IT,Budget,Paid Ads
+C1146,2024-01-19,IT,Standard,Organic
+C1147,2024-02-24,IT,Budget,Organic
+C1148,2024-08-15,CH,Standard,Referral
+C1149,2024-06-18,CH,Premium,Paid Ads
+C1150,2024-10-15,FR,Premium,Paid Ads
+C1151,2023-10-29,IT,Budget,Organic
+C1152,2024-02-05,DE,Standard,Paid Ads
+C1153,2023-12-12,ES,Budget,Paid Ads
+C1154,2024-11-26,ES,Premium,Paid Ads
+C1155,2023-09-11,FR,Standard,Paid Ads
+C1156,2024-04-05,CH,Budget,Organic
+C1157,2023-04-29,DE,Budget,Affiliate
+C1158,2024-10-14,ES,Budget,Organic
+C1159,2023-11-08,ES,Budget,Paid Ads
+C1160,2023-10-07,ES,Premium,Organic
+C1161,2024-04-02,FR,Standard,Paid Ads
+C1162,2024-01-31,DE,Premium,Organic
+C1163,2024-10-12,DE,Budget,Affiliate
+C1164,2024-02-24,DE,Standard,Paid Ads
+C1165,2024-02-13,DE,Budget,Paid Ads
+C1166,2023-04-18,DE,Standard,Organic
+C1167,2023-02-17,ES,Budget,Organic
+C1168,2023-11-19,DE,Budget,Paid Ads
+C1169,2025-01-30,DE,Standard,Paid Ads
+C1170,2024-12-02,ES,Budget,Paid Ads
+C1171,2024-05-05,CH,Standard,Affiliate
+C1172,2024-05-07,IT,Standard,Referral
+C1173,2023-11-14,IT,Budget,Affiliate
+C1174,2023-06-10,ES,Premium,Organic
+C1175,2023-02-07,IT,Standard,Referral
+C1176,2023-10-06,CH,Standard,Paid Ads
+C1177,2023-09-20,IT,Standard,Paid Ads
+C1178,2023-06-21,FR,Standard,Affiliate
+C1179,2023-08-09,FR,Standard,Referral
+C1180,2023-02-19,CH,Premium,Affiliate
+C1181,2024-04-20,DE,Standard,Referral
+C1182,2024-12-09,IT,Budget,Organic
+C1183,2024-06-19,FR,Budget,Referral
+C1184,2023-12-25,DE,Standard,Paid Ads
+C1185,2023-12-05,DE,Budget,Affiliate
+C1186,2023-09-13,ES,Budget,Referral
+C1187,2023-05-16,FR,Budget,Organic
+C1188,2024-04-13,IT,Standard,Organic
+C1189,2024-03-21,ES,Budget,Organic
+C1190,2023-02-06,DE,Standard,Paid Ads
+C1191,2023-12-01,IT,Standard,Organic
+C1192,2023-08-23,FR,Standard,Referral
+C1193,2023-06-05,DE,Budget,Paid Ads
+C1194,2024-06-28,IT,Standard,Referral
+C1195,2024-02-20,ES,Standard,Organic
+C1196,2024-05-09,FR,Standard,Paid Ads
+C1197,2024-07-06,CH,Standard,Organic
+C1198,2025-01-18,FR,Budget,Affiliate
+C1199,2024-09-09,CH,Premium,Organic
+C1200,2024-04-29,IT,Budget,Organic
